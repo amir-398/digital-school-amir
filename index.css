@@ -2,7 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 @font-face {
-  font-family: "ROBOTO";
+  font-family: "Arial";
   src: url(./assets/fonts/Roboto-Regular.ttf);
 }
 
